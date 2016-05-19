@@ -1,0 +1,6 @@
+[package]
+name = "edge_detector"
+version = "0.1.0"
+authors = ["matto <m2harvey@uwaterloo.ca>"]
+
+[dependencies]
